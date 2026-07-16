@@ -4,7 +4,7 @@ Hệ thống OCR nhận dạng chữ viết tiếng Việt chạy hoàn toàn lo
 
 ---
 
-## 🛠️ Tính năng Mới đã Cập nhật
+## 🛠️ Tính năng
 
 1. **Pipeline Xử lý Split-API Tuần tự (Cho cả Giấy A4 và CCCD)**:
    - **API 1 (`POST /api/ocr/upload`)**: Tiếp nhận tệp ảnh tải lên, chạy khâu tiền xử lý (cắt viền Warping phối cảnh, xoay thẳng, lọc ảnh) và trả về Base64 ảnh đã làm sạch cùng cờ hiệu năng. 
