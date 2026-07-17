@@ -34,6 +34,7 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
+backend/uploads/
 
 # --- Trọng số AI & Machine Learning ---
 # Đã bỏ comment 'models/' để tránh chặn nhầm thư mục chứa code model.
