@@ -1,9 +1,10 @@
 # --- Cấu hình môi trường & Database ---
 .env
 *.env
-.env.*
 *.sqlite3
 *.db
+!.env.example
+!**/.env.example
 
 # --- Log files ---
 *.log
